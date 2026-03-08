@@ -132,7 +132,7 @@ If you want your own server, the easiest option is Conduit:
 
 ```powershell
 cd C:\Users\YourName
-git clone https://github.com/mattforsberg/podcastbot.git
+git clone https://github.com/TheGoauld/podcastbot.git
 cd podcastbot
 ```
 
